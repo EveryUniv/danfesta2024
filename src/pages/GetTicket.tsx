@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import Header from "../components/common/Header";
 import Banner from "../components/common/Banner";
 import styled from "styled-components";
-import useDateTab from "../stores/useDate";
+import useDateTab from "../stores/useDateTab";
 import Tab from "../components/common/Tab";
 
 const GetTicket = () => {
